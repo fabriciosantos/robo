@@ -1,0 +1,10 @@
+br/com/application/domain/Usuario.class
+br/com/application/view/MainViewApplication$1.class
+br/com/application/view/MainViewApplication.class
+br/com/application/service/ServicoSelenium.class
+br/com/application/domain/Almoco.class
+br/com/application/domain/Chegada.class
+br/com/application/infra/ClockRunnable.class
+br/com/application/infra/ClockRunnable$1.class
+br/com/application/main/MainApplication.class
+br/com/application/domain/Saida.class

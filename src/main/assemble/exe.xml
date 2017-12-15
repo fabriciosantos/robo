@@ -1,0 +1,26 @@
+<assembly>
+  <id>exe</id>
+  <formats>
+    <format>jar</format>
+  </formats>
+  <includeBaseDirectory>false</includeBaseDirectory>
+  <dependencySets>
+    <dependencySet>
+      <outputDirectory></outputDirectory>
+      <outputFileNameMapping></outputFileNameMapping>
+      <unpack>true</unpack>
+      <scope>runtime</scope>
+      <includes>
+        <include>com.thoughtworks.xstream:xstream</include>
+        <include>org.seleniumhq.selenium:selenium-java</include>
+      </includes>
+    </dependencySet>
+  </dependencySets>
+  <fileSets>
+    <fileSet>
+      <directory>target/classes</directory>
+      <outputDirectory></outputDirectory>
+    </fileSet>
+  </fileSets>
+</assembly>
+

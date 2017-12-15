@@ -1,0 +1,16 @@
+-------- configuracao.lua -----------------------------------
+-- Arquivo de configuracao para Aplicacao WALL.E 1.0--
+-------------------------------------------------------
+
+-- usuario ---
+
+--nome----
+nome="Daniel"
+
+--senha------
+password = "/home/daniel/server/data/"
+
+--usuario----
+user = "/home/daniel/server/data/world/map.otbm"
+
+
